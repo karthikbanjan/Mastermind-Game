@@ -1,3 +1,3 @@
-# Mastermind Game from week 2 kotlin coursera course by jetbrains
+# Mastermind Game in Kotlin
 playMastermind is a preset provided by jetbrains.
 evaluateGuess is my take on the logic of the game.
